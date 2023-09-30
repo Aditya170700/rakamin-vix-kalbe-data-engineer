@@ -1,0 +1,1 @@
+Jika dilihat dari gambar, ada dropdown Plant dan juga didalam data ddlPlant ada duplikat data (Surabaya). Kolom ddlPlant bisa dipisahkan menjadi tabel baru dan yang disimpan di kolom ddlPlant adalah PK dari tabel baru, sehingga tidak terjadi duplikat data. Begitu juga kolom-kolom yang lain.
